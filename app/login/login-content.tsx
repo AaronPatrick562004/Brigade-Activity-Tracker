@@ -76,7 +76,7 @@ export default function LoginContent() {
                   >
                     <User className={`h-5 w-5 ${userType === "resident" ? "text-green-700" : "text-gray-500"}`} />
                     <span className={`text-sm font-medium ${userType === "resident" ? "text-green-700" : "text-gray-700"}`}>
-                      Projects
+                      Project
                     </span>
                     <span className="text-[10px] text-gray-500">Project Dashboard</span>
                   </button>
