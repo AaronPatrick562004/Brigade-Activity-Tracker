@@ -38,7 +38,7 @@ export default function ReportsPage() {
             </div>
             <div>
               <h1 className="font-mono text-2xl font-bold text-gray-900">
-                Reports & Analytics
+                Reports
               </h1>
               <p className="text-sm text-gray-600">
                 Comprehensive analytics for Brigade Eco-Club activities across residential communities
