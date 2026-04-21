@@ -33,7 +33,7 @@ export default function AdminDashboardPage() {
             </div>
             <div>
               <h1 className="text-base sm:text-xl md:text-2xl font-bold text-gray-900">
-                Admin Dashboard
+                Admin
               </h1>
               <p className="text-xs sm:text-sm text-gray-600">
                 Corporate-level overview of Brigade Eco-Club implementation across residential communities
